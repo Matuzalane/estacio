@@ -19,3 +19,5 @@ O projeto Gestão AMABGV é um sistema web desenvolvido para gerenciar associado
 - Visual Studio Code
 - Git
 
+## Estrutura do Banco de Dados
+<img alt="Estrutura-Banco-de-Dados" src="https://github.com/Matuzalane/estacio/blob/main/banco-de-dados/amabgv/AMABGV-Estrutura-BD.png" />
